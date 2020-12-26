@@ -3,6 +3,15 @@
 
 > Open this page at [https://sellorm.github.io/xmas_adventure/](https://sellorm.github.io/xmas_adventure/)
 
+## Objective
+
+The Christmas tree baubles have been stolen and spread around the kingdom.
+Find all ten and return them to the tree before the time runs out!
+
+## Controls
+
+D-pad or cursor keys to move.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
